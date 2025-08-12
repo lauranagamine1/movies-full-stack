@@ -1,2 +1,2 @@
 # movies
-Movie reviews full stack website made with SpringBoot, ReactJs and MongoDB
+Movies full-stack website using SpringBoot, ReactJs and MongoDB from FreeCodeCamp course.
